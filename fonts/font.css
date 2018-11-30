@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'PragmaticaBold-Reg';
+  src: url('PragmaticaBold-Reg.eot');
+  src: url('PragmaticaBold-Reg.woff2') format('woff2'),
+       url('PragmaticaBold-Reg.woff') format('woff'),
+       url('PragmaticaBold-Reg.ttf') format('truetype'),
+       url('PragmaticaBold-Reg.svg#PragmaticaBold-Reg') format('svg'),
+       url('PragmaticaBold-Reg.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
